@@ -19,7 +19,12 @@ Aeries Mobile provides a more mobile-appropriate UI for the Aeries Gradebook sit
 * [Andy Yu](https://github.com/AndyYu)
 
 # <a name="installation"></a>Installation
-####**NOTE: As of December 2013, Aeries has changed its UI. We are working on updating the app to work with the new changes. Until then, the app is unfortunately not going to work. We are sorry for the inconvenience.**####
+> **NOTE: As of December 2013, Aeries has changed its UI. We are working on updating the app to work with the new changes. Until then, the app is unfortunately not going to work. We are sorry for the inconvenience.**
+
+
+Aeries Mobile is a mobile site, so it can be accessed by any web browser on any phone. Simply point your browser to [http://aeries.shivamthapar.com](http://aeries.shivamthapar.com). It can even be used on your computer! 
+
+We've also made an Android wrapper app for the site, which can be found [here] (https://github.com/shivamthapar/ABI-Gradebook-Android). Follow the instructions on that page to download the app on your Android phone. 
 
 # <a name="tech-stuff"></a>Tech Stuff
 Thank you to the following projects for making our development much easier and enjoyable! :)
