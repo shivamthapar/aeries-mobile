@@ -19,9 +19,7 @@ Aeries Mobile provides a more mobile-appropriate UI for the Aeries Gradebook sit
 * [Andy Yu](https://github.com/AndyYu)
 
 # <a name="installation"></a>Installation
-<div class="alert alert-danger" style="background-color: #f2dede;border-color: #eed3d7;color: #b94a48;padding: 15px;margin-bottom: 20px;border: 1px solid transparent;border-radius: 4px;">
-<p>"Danger, Will Robinson!"</p>
-</div>
+####**NOTE: As of December 2013, Aeries has changed its UI. We are working on updating the app to work with the new changes. Until then, the app is unfortunately not going to work. We are sorry for the inconvenience.**####
 
 # <a name="tech-stuff"></a>Tech Stuff
 Thank you to the following projects for making our development much easier and enjoyable! :)
