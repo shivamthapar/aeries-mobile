@@ -27,8 +27,14 @@ Aeries Mobile is a mobile site, so it can be accessed by any web browser on any 
 
 We've also made an Android wrapper app for the site, which can be found [here] (https://github.com/shivamthapar/ABI-Gradebook-Android). Follow the instructions on that page to download the app on your Android phone. 
 
-## <a name="screenshots">Screenshots
-![Home Screen](https://github.com/shivamthapar/aeries-mobile/blob/master/screenshots/galaxy%20nexus/skinned/framed_home.png?raw=true "Home Screen")
+## <a name="screenshots"></a>Screenshots
+
+For full-sized screenshots, click [here](https://github.com/shivamthapar/aeries-mobile/tree/master/screenshots/galaxy%20nexus/skinned).
+
+![Home Screen](http://s13.postimg.org/4t219glbr/framed_home_Copy.png "Home Screen")
+![Gradebook Screen](http://s13.postimg.org/q1fpqvzsn/framed_gradebook_Copy.png "Gradebook")
+![Class Screen](http://s13.postimg.org/6v2inpjav/framed_class_Copy.png "Class")
+![Total Class Grades Screen](http://s13.postimg.org/ooy0p02d3/framed_totalgrades_Copy.png "Total Grades")
 
 ## <a name="tech-stuff"></a>Tech Stuff
 Thank you to the following projects for making our development much easier and enjoyable! :)
@@ -37,6 +43,11 @@ Thank you to the following projects for making our development much easier and e
 * [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) for parsing the Aeries website
 * [Requests](http://docs.python-requests.org/en/latest/) module to handle form data. 
 * [Heroku](https://www.heroku.com/), for painlessly hosting our project.
+
+
+## <a name= "license"></a>License
+MIT
+
 
 Please look at the Requirements.txt file for other dependencies.
 
