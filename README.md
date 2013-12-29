@@ -5,9 +5,10 @@ A mobile client for FJUHSD's Aeries gradebook browser interface.
 
 ## Table of Contents
  
-* [Team Members](#team-members)
 * [Project Info] (#project-info)
 * [Installation] (#installation)
+* [Screenshots] (#screenshots)
+* [Team Members](#team-members)
 * [Tech Stuff] (#tech-stuff)
 
 ## <a name= "project-info"></a>Project Info
@@ -25,6 +26,9 @@ Aeries Mobile provides a more mobile-appropriate UI for the Aeries Gradebook sit
 Aeries Mobile is a mobile site, so it can be accessed by any web browser on any phone. Simply point your browser to [http://aeries.shivamthapar.com](http://aeries.shivamthapar.com). It can even be used on your computer! 
 
 We've also made an Android wrapper app for the site, which can be found [here] (https://github.com/shivamthapar/ABI-Gradebook-Android). Follow the instructions on that page to download the app on your Android phone. 
+
+## <a name="screenshots">Screenshots
+![Home Screen](https://github.com/shivamthapar/aeries-mobile/blob/master/screenshots/galaxy%20nexus/skinned/framed_home.png?raw=true "Home Screen")
 
 ## <a name="tech-stuff"></a>Tech Stuff
 Thank you to the following projects for making our development much easier and enjoyable! :)
