@@ -44,11 +44,11 @@ Thank you to the following projects for making our development much easier and e
 * [Requests](http://docs.python-requests.org/en/latest/) module to handle form data. 
 * [Heroku](https://www.heroku.com/), for painlessly hosting our project.
 
+Please look at the Requirements.txt file for other dependencies.
+
 
 ## <a name= "license"></a>License
 MIT
 
-
-Please look at the Requirements.txt file for other dependencies.
 
 
