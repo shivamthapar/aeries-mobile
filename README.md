@@ -10,6 +10,7 @@ A mobile client for FJUHSD's Aeries gradebook browser interface.
 * [Screenshots] (#screenshots)
 * [Team Members](#team-members)
 * [Tech Stuff] (#tech-stuff)
+* [License] (#license)
 
 ## <a name= "project-info"></a>Project Info
 Aeries Mobile provides a more mobile-appropriate UI for the Aeries Gradebook site for FJUHSD. Simply use your regular Aeries credentials to log in. We've added several upgrades on top of the regular Aeries functions, inclduing assignments grouped by type and individual assignment grades. 
